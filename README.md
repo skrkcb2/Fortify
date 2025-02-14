@@ -4,7 +4,7 @@
 - ### Fortify를 활용한 동적 분석 (DAST, Dynamic Application Security Testing)
   #### 기존 웹 보안 학습을 위한 Spring Boot 코드를 통한 검사 실시 예시.
   ![image](https://github.com/user-attachments/assets/4d2971a5-4eaf-452d-a5ff-b820eaa81c2d)
-  ![image](https://github.com/user-attachments/assets/0e6d3b0a-f16b-4856-9290-6cfc7355af69)
+  ![forti_check](https://github.com/user-attachments/assets/3a5fd400-9884-4d48-b743-c9d72b417d56)
   #### 취약점에 대한 코멘트를 통한 소통(협업 소통)
   ![image](https://github.com/user-attachments/assets/dbf35597-ac6f-41ef-b32c-07b84e60b92d)
   #### 보고서 템플릿 지정 후 출력
