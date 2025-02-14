@@ -14,11 +14,11 @@
   미국 연방 정보 보안 관리법(FISMA) 기준에 따른 보안 규정 준수 여부를 평가하는 보고서
 
   PCI DSS Compliance (버전별 2.0~4.0, SSF 1.2 포함)
-  **PCI DSS(Payment Card Industry Data Security Standard)**는 카드 결제 시스템 보안을 위한 표준
+  PCI DSS(Payment Card Industry Data Security Standard)는 카드 결제 시스템 보안을 위한 표준
   버전별로 보안 요구사항이 다르며, 각 버전에 맞는 준수 여부를 확인하는 리포트
 
   STIG Compliance (4.11, 5.1, 5.2, 5.3)
-  **STIG(Security Technical Implementation Guide)**는 미국 국방부(DoD)에서 정의한 보안 가이드라인
+  STIG(Security Technical Implementation Guide)는 미국 국방부(DoD)에서 정의한 보안 가이드라인
   버전별 보안 정책을 준수하는지 평가
 
   Hybrid Comprehensive
@@ -45,5 +45,6 @@
   정적 분석 결과를 요약하여 제공하는 보고서
   전반적인 취약점 개수 및 심각도 등을 포함
   ```
+   #### 여기서 Static Analysis Trace 형태를 통해 상세 하게 보고서를 작성하여 확인 해보겠습니다.
 
 
