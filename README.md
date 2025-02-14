@@ -46,6 +46,6 @@
   전반적인 취약점 개수 및 심각도 등을 포함
   ```
    #### 저희는 여기서 정적 검사만 실시 했기에 Static Issue Detail 개발자 분들이 참고하기 쉬운 형태를 통해 상세 하게 보고서를 작성하여 확인 해보겠습니다.
-   #### 보고서 Static Issue Detail 예시는 상단에 첨부 하였습니다(web test.pdf). Static Comprehensive 예시(web test comp.pdf)
+   #### 보고서 예시는 상단에 첨부 하였습니다.<br> Static Issue Detail(web test.pdf). <br> Static Comprehensive 예시(web test comp.pdf). <br> Static Summary 예시(web test summary.pdf). 
 
 
