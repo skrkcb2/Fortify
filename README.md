@@ -1,7 +1,7 @@
 # Fortify
 ## Fotify 란?
 #### Fortify는 애플리케이션 보안 테스트(AST) 솔루션입니다. 소스 코드 분석 및 보안 취약점 검출을 목적으로 사용되며, 정적 및 동적 분석을 지원합니다. Fortify on Deamnd Trial버전을 사용하여 SAST 정적 코드 분석을 진행해 보겠습니다.
-- ### Fortify를 활용한 동적 분석 (DAST, Dynamic Application Security Testing)
+- ### Fortify를 활용한 정적 분석 (SAST, Static Application Security Testing)
   #### 기존 웹 보안 학습을 위한 Spring Boot 코드를 통한 검사 실시 예시.
   ![image](https://github.com/user-attachments/assets/4d2971a5-4eaf-452d-a5ff-b820eaa81c2d)
   ![forti_check](https://github.com/user-attachments/assets/3a5fd400-9884-4d48-b743-c9d72b417d56)
